@@ -1,0 +1,20 @@
+create 8
+add-vertex
+add-vertex 0
+add-vertex 0 1
+add-vertex 0
+add-vertex
+breadth-first-search 1
+
+create 8
+add-vertex
+add-vertex 0
+add-vertex 1
+add-vertex 2
+add-vertex 3
+add-vertex 4
+add-vertex 5
+remove-vertex 4
+breadth-first-search 0
+breadth-first-search 6
+breadth-first-search 4

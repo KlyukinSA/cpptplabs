@@ -1,0 +1,19 @@
+create 4
+add-vertex
+add-vertex
+add-vertex 0 1
+has-edge 2 0
+has-edge 2 1
+has-edge 2 2
+has-edge 2 3
+has-edge 1 0
+remove-vertex 0
+has-edge 2 0
+remove-vertex 3
+
+create 2
+add-vertex
+add-vertex
+add-vertex
+remove-vertex 0
+add-vertex

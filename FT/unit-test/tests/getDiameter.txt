@@ -1,0 +1,57 @@
+create 32
+add-vertex
+add-vertex 0
+add-vertex 1
+add-vertex 2
+add-vertex 0
+add-vertex 4
+add-vertex 5
+add-vertex 6
+add-vertex 0
+add-vertex 8
+add-vertex 9
+add-vertex 10
+add-vertex 11
+get-diameter 0
+
+create 32
+add-vertex
+add-vertex 0
+add-vertex 1
+add-vertex 2
+add-vertex 0
+add-vertex 4
+add-vertex 5
+add-vertex 6
+add-vertex 0
+add-vertex 8 5
+add-vertex 9
+add-vertex 10
+add-vertex 11
+get-diameter 0
+
+create 32
+add-vertex
+add-vertex 0
+add-vertex 0
+add-vertex 2
+add-vertex 0
+add-vertex 4
+add-vertex 5
+add-vertex 0
+add-vertex 7
+add-vertex 8
+add-vertex 9
+get-diameter 0
+add-vertex
+add-vertex 11
+add-vertex 11
+add-vertex 13
+add-vertex 11
+add-vertex 15
+add-vertex 16
+add-vertex 11
+add-vertex 18
+add-vertex 19 15
+add-vertex 20
+get-diameter 11

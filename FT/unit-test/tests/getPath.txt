@@ -1,0 +1,10 @@
+create 8
+add-vertex
+add-vertex 0
+add-vertex 1
+add-vertex 2
+add-vertex 0
+add-vertex 4
+add-vertex 5 3
+add-vertex
+get-path 0
